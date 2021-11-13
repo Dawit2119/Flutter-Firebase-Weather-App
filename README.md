@@ -1,2 +1,2 @@
 #   Flutter weather app
-#   Use's Location and it's good to allow app to access location to detect your local weather
+#   This app uses Location service and it's good to allow app to access location to detect your local weather.
